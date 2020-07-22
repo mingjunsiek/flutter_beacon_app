@@ -4,4 +4,4 @@ A new Flutter project.
 
 ## Getting Started
 
-This shall be the repository for the initial phase of the Flutter Beacon application.
+This repository serves as the initial phase of the Flutter Beacon application.
